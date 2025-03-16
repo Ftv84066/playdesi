@@ -1,0 +1,14 @@
+{
+  "name": "PlayDesi",
+  "version": 2,
+  "packs": [
+    {
+      "name": "PlayDesi Movies",
+      "icon": "https://playdesi.net/favicon.ico",
+      "main": "PlayDesiProvider",
+      "id": "playdesi",
+      "lang": "hi",
+      "version": 1
+    }
+  ]
+}
